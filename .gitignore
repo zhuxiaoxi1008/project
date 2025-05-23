@@ -1,14 +1,18 @@
-zhuxiaoxi1008.github.io
-vue-vben-admin
-python
-project
-community
-CaseResouceForTeacher
-case_resource_student
-case_resource_service
-aitutorial
-.vscode
-# vue3-element-admin-thin
-# puppeteerServe
-/vue3-element-admin-thin/node_modules
-/vue3-element-admin-thin/.git
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.history
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+pnpm-lock.yaml
+stats.html
